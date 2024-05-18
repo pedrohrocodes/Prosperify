@@ -1,0 +1,11 @@
+C:\Users\devpe\RiderProjects\Prosperify\Helpers\bin\Debug\net8.0\Helpers.deps.json
+C:\Users\devpe\RiderProjects\Prosperify\Helpers\bin\Debug\net8.0\Helpers.dll
+C:\Users\devpe\RiderProjects\Prosperify\Helpers\bin\Debug\net8.0\Helpers.pdb
+C:\Users\devpe\RiderProjects\Prosperify\Helpers\obj\Debug\net8.0\Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devpe\RiderProjects\Prosperify\Helpers\obj\Debug\net8.0\Helpers.AssemblyInfoInputs.cache
+C:\Users\devpe\RiderProjects\Prosperify\Helpers\obj\Debug\net8.0\Helpers.AssemblyInfo.cs
+C:\Users\devpe\RiderProjects\Prosperify\Helpers\obj\Debug\net8.0\Helpers.csproj.CoreCompileInputs.cache
+C:\Users\devpe\RiderProjects\Prosperify\Helpers\obj\Debug\net8.0\Helpers.dll
+C:\Users\devpe\RiderProjects\Prosperify\Helpers\obj\Debug\net8.0\refint\Helpers.dll
+C:\Users\devpe\RiderProjects\Prosperify\Helpers\obj\Debug\net8.0\Helpers.pdb
+C:\Users\devpe\RiderProjects\Prosperify\Helpers\obj\Debug\net8.0\ref\Helpers.dll
