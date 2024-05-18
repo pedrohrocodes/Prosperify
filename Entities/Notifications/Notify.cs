@@ -8,6 +8,7 @@ public class Notify
     {
         this.Notifications = new List<Notify>();
     }
+    
     public Notify(string propertyName, string message)
     {
         this.PropertyName = propertyName;
