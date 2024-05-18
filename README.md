@@ -1,5 +1,5 @@
 
-![Logo](https://i.imgur.com/wkJCY5d.png)
+![Logo](https://i.imgur.com/tBDvxop.png)
 
 
 # Prosperify - Sistema Financeiro
