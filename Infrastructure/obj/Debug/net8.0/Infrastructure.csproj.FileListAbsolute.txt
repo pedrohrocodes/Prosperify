@@ -9,3 +9,10 @@ C:\Users\devpe\RiderProjects\Prosperify\Infrastructure\obj\Debug\net8.0\Infrastr
 C:\Users\devpe\RiderProjects\Prosperify\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
 C:\Users\devpe\RiderProjects\Prosperify\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
 C:\Users\devpe\RiderProjects\Prosperify\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\devpe\RiderProjects\Prosperify\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\devpe\RiderProjects\Prosperify\Infrastructure\bin\Debug\net8.0\Entities.dll
+C:\Users\devpe\RiderProjects\Prosperify\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\devpe\RiderProjects\Prosperify\Infrastructure\bin\Debug\net8.0\Entities.pdb
+C:\Users\devpe\RiderProjects\Prosperify\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\devpe\RiderProjects\Prosperify\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+C:\Users\devpe\RiderProjects\Prosperify\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
