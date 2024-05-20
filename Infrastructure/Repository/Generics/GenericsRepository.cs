@@ -6,11 +6,11 @@ using Microsoft.Win32.SafeHandles;
 
 namespace Infrastructure.Repository.Generics;
 
-public class RepositoryGenerics<T> : IDisposable, IGeneric<T> where T : class
+public class GenericsRepository<T> : IDisposable, IGeneric<T> where T : class
 {
     private readonly DbContextOptions<ContextBase> _dbContextOptions;
     
-    public RepositoryGenerics()
+    public GenericsRepository()
     {
         this._dbContextOptions = new DbContextOptions<ContextBase>();
     }
