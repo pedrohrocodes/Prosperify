@@ -4,7 +4,7 @@ using Infrastructure.Repository.Generics;
 
 namespace Infrastructure.Repository;
 
-public class ExpenseRespository : GenericsRepository<Expense>, IExpense
+public class ExpenseRepository : GenericsRepository<Expense>, IExpense
 {
     public Task<IList<Expense>> GetUserExpensesList(Guid userId)
     {
