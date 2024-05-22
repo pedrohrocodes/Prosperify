@@ -1,5 +1,5 @@
 ﻿using System.Runtime.InteropServices;
-using Domain.Interfaces.Generics;
+using Domain.Interfaces;
 using Infrastructure.Configuration;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Win32.SafeHandles;

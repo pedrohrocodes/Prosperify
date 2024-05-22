@@ -1,4 +1,4 @@
-using Domain.Interfaces.Generics;
+using Domain.Interfaces;
 using Entities.Entities;
 using Infrastructure.Configuration;
 using Infrastructure.Repository.Generics;

@@ -1,4 +1,4 @@
-﻿namespace Domain.Interfaces.Generics;
+﻿namespace Domain.Interfaces;
 
 public interface IGeneric<T> where T : class
 {
