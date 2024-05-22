@@ -6,5 +6,8 @@ namespace Infrastructure.Repository;
 
 public class FinancialSystemRepository : GenericsRepository<FinancialSystem>, IFinancialSystem
 {
-    
+    public Task<IList<FinancialSystem>> GetUserSystemList(Guid userId)
+    {
+        throw new NotImplementedException();
+    }
 }
